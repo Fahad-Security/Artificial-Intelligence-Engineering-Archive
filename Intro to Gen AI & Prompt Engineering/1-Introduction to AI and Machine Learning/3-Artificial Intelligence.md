@@ -1,4 +1,5 @@
 # 🧠 The Main Idea of the Text
+url: https://www.youtube.com/watch?v=uMzUB89uSxU
 
 The story (John + Netflix + Siri + Tesla) is meant to explain one simple idea:
 
